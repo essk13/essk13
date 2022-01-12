@@ -1,8 +1,6 @@
 <div align=center>
   <h3> EK_13 👋</h3>
-
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kldoggod">
-  
+ 
   [![ESSK_13's GitHub stats](https://github-readme-stats.vercel.app/api?username=essk13&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
   
   <h3> 🛠 Tech Stack 🛠 </h3>

@@ -46,6 +46,14 @@ IDE<br>
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></a>
 
+<h3>Design Stack</h3>
+
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=Adobe Lightroom&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/></a>
+
 <!--
 **essk13/essk13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

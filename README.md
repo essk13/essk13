@@ -3,8 +3,6 @@
 
 <h3>Tech Stack</h3>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=essk13&show_icons=true&theme=merko" height="165">
-
 Python<br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
@@ -23,7 +21,8 @@ Web<br>
 <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=Quasar&logoColor=white"/></a>
 <br>
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kldoggod">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=essk13&show_icons=true&theme=merko" height="165">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kldoggod">
 
 <!--
 **essk13/essk13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

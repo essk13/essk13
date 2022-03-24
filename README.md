@@ -10,10 +10,6 @@ Python<br>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <br>
 
-Java<br>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<br>
-
 Web<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
@@ -27,32 +23,12 @@ Web<br>
 <img src="https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=Quasar&logoColor=white"/></a>
 <br>
 
-DB<br>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a> 
-<br>
-
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kldoggod">
-
-IDE<br>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
-<br>
 
 +<br>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></a>
-
-<h3>Design Stack</h3>
-
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=Adobe Lightroom&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/></a>
 
 <!--
 **essk13/essk13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

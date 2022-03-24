@@ -25,11 +25,6 @@ Web<br>
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kldoggod">
 
-+<br>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></a>
-
 <!--
 **essk13/essk13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

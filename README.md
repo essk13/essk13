@@ -1,6 +1,9 @@
 
 <h3> EK_13</h3>
 
+**Education**<br>
+SSAFY(삼성 청년 소프트웨어 아카데미) 6기
+
 **Tech Stack**<br>
 Python<br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
